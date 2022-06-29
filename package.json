@@ -1,7 +1,11 @@
 {
-  "name": "yasuperu",
+  "name": "ThreeJsNuxt",
   "version": "1.0.0",
   "private": true,
+  "author": {
+    "name": "Jasper Kamphuis",
+    "handle": "yasuperu"
+  },
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",

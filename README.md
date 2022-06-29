@@ -1,4 +1,4 @@
-# yasuperu
+# Three.js for Nuxt.js
 
 ## Build Setup
 
